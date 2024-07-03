@@ -1,4 +1,4 @@
-# Tokenmaster
+# NFTickets school project
 
 ## Technology Stack & Tools
 
